@@ -22,7 +22,8 @@ import JobSearch from './Components/JobSearch';
 import ForgotPassword from './Authentication/ForgotPassword';
 import PuzzleGame from './Components/PuzzleGame';
 
-const App = () => {
+// main code starts here
+  const App = () => {
   return (
     <div className='min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-indigo-50'>
       <Routes>
