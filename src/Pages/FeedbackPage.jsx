@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { FaArrowLeft, FaUserCheck } from "react-icons/fa";
 import { HiOutlineDocumentText } from "react-icons/hi";
 import { MdFeedback } from "react-icons/md";
-import { BiErrorAlt } from "react-icons/bi";
+import { BiErrorAlt } from "react-icons/bi";//icons imported
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 20 },
